@@ -13,3 +13,9 @@ __pycache__/
 
 # Data files (if you don't want raw data in the repo)
 *.csv
+
+# Codebook
+Codebook_HSLS_17_PETS.txt
+
+# Markdown files
+02_data_cleaning.md
