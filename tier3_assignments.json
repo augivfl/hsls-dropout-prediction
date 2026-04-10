@@ -1,0 +1,2566 @@
+{
+  "X1TXMTH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TXMSEM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TXMSCR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TXMTSCOR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TXMQUINT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TXMPROF1": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TXMPROF2": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TXMPROF3": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TXMPROF4": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TXMPROF5": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1MACC": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1MTHID": {
+    "tier_3": true,
+    "certain": true
+  },
+  "X1MTHUTI": {
+    "tier_3": true,
+    "certain": true
+  },
+  "X1MTHEFF": {
+    "tier_3": true,
+    "certain": true
+  },
+  "X1MTHINT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "X1SCIID": {
+    "tier_3": true,
+    "certain": true
+  },
+  "X1SCIUTI": {
+    "tier_3": true,
+    "certain": true
+  },
+  "X1SCIEFF": {
+    "tier_3": true,
+    "certain": true
+  },
+  "X1SCIINT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "X1SCHOOLBEL": {
+    "tier_3": true,
+    "certain": true
+  },
+  "X1SCHOOLENG": {
+    "tier_3": true,
+    "certain": true
+  },
+  "X1STU30OCC2": {
+    "tier_3": true,
+    "certain": true
+  },
+  "X1STU30OCC_STEM1": {
+    "tier_3": true,
+    "certain": true
+  },
+  "X1STUEDEXPCT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "X1PAREDEXPCT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1PQLANG": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TMCOMM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TMEFF": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TMEXP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TMPRINC": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TMRESP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TSCOMM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TSEFF": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TSEXP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TSPRINC": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1TSRESP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1SCHOOLCLI": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1COUPERTEA": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1COUPERCOU": {
+    "tier_3": false,
+    "certain": true
+  },
+  "X1COUPERPRI": {
+    "tier_3": false,
+    "certain": true
+  },
+  "S1LANG1ST": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1LANGMOM": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1LANGFRIEND": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MCLUB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MCOMPETE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MCAMP": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MTUTOR": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SCLUB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SCOMPETE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SCAMP": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1STUTOR": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1NOMSACT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SBOOKS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1WEBINFO": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SMUSEUM": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MPERSON1": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MPERSON2": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MUNDERST": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MENJOYS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MCHALLENGE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MHSREQ": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MCOUNSEL": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MPARENT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MTEACHER": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MNOOTHR": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MCLGADM": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MCLGSUCC": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MCAREER": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MASSIGNED": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MOTHREASN": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MNOREASON": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MENJOYING": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MWASTE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MBORING": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MUSELIFE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MUSECLG": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MUSEJOB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MTESTS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MTEXTBOOK": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MSKILLS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MASSEXCL": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MTCHVALUES": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MTCHRESPCT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MTCHFAIR": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MTCHCONF": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MTCHMISTKE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MTCHTREAT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MTCHINTRST": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MTCHMFDIFF": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MTCHEASY": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SPERSON1": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SPERSON2": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SUNDERST": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SENJOYS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SCHALLENGE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SHSREQ": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SCOUNSEL": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SPARENT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1STEACHER": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SNOOTHR": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SCLGADM": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SCLGSUCC": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SCAREER": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SASSIGNED": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SOTHREASN": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SNOREASON": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SENJOYING": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SWASTE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SBORING": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SUSELIFE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SUSECLG": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SUSEJOB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1STESTS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1STEXTBOOK": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SSKILLS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SASSEXCL": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1STCHVALUES": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1STCHRESPCT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1STCHFAIR": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1STCHCONF": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1STCHMISTKE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1STCHTREAT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1STCHINTRST": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1STCHMFDIFF": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1STCHEASY": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SAFE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1PROUD": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1TALKPROB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SCHWASTE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1GOODGRADES": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1NOHWDN": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1NOPAPER": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1NOBOOKS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FAVSUBJ": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1LEASTSUBJ": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1PAYOFF": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1GETINTOCLG": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1AFFORD": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1WORKING": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MOMTALKM": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1DADTALKM": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FRNDTALKM": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1TCHTALKM": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1CNSLTALKM": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1NOTALKM": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MOMTALKS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1DADTALKS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FRNDTALKS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1TCHTALKS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1CNSLTALKS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1NOTALKS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MOMTALKOTH": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1DADTALKOTH": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FRNDTLKOTH": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1TCHTALKOTH": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1CNSLTLKOTH": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1NOTALKOTH": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MOMTALKCLG": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1DADTALKCLG": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FRNDTLKCLG": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1TCHTALKCLG": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1CNSLTLKCLG": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1NOTALKCLG": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MOMTALKJOB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1DADTALKJOB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FRNDTLKJOB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1TCHTALKJOB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1CNSLTLKJOB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1NOTALKJOB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MOMTALKPRB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1DADTALKPRB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FRNDTLKPRB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1TCHTALKPRB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1CNSLTLKPRB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1NOTALKPRB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FRNDGRADES": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FRNDSCHOOL": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FRNDCLASS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FRNDCLG": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1TEFRNDS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1TEACTIV": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1TEPOPULAR": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1TEMAKEFUN": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1ENGCOMP": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MTHCOMP": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SCICOMP": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1HRMHOMEWK": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1HRSHOMEWK": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1HROTHHOMWK": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1HRACTIVITY": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1HRWORK": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1HRFAMILY": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1HRFRIENDS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1HRTV": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1HRVIDEO": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1HRONLINE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1TALENTSRCH": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1UPWARDBND": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1GEARUP": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1AVID": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MESA": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MYRS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MREASREQ": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MREASPAR": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MREASTCHR": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MREASCNSL": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MREASGOOD": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MREASJOB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MREASLIKE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MREASENJOY": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MREASCLG": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MREASUSE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MREASFRND": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MREASOTH": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1MREASNOT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1APCALC": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1IBCALC": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SYRS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SREASREQ": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SREASPAR": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SREASTCHR": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SREASCNSL": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SREASGOOD": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SREASJOB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SREASLIKE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SREASENJOY": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SREASCLG": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SREASUSE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SREASFRND": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SREASOTH": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SREASNOT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1APS": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1IBSCI": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1PLAN": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1PLANCNSL": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1PLANTCHR": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1PLANPRNT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1PLANOTH": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1PLANNOONE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1PSAT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SAT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1ACT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1AP": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1IBTEST": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SUREHSGRAD": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1EDUEXPECT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1SURECLG": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1ABILITYBA": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1BAAGE30": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FYAA": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FYBA": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FYLICENSE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FYAPPR": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FYMILITARY": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FYJOB": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FYFAMILY": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FYTRAVEL": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FYVOLUN": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FYNOTSURE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1PUBPRV": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1INOUTST": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1TUITION": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1COSTIN": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FEEIN": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FEEPRV": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1FEEOUT": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1ESTIN": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1ESTFEE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1ESTCONF": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1OCC30THINK": {
+    "tier_3": true,
+    "certain": true
+  },
+  "S1TALKFUTURE": {
+    "tier_3": true,
+    "certain": true
+  },
+  "P1HHTIME": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1HHOTHR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1ENGLISH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1DIFSCHLNG": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1STARTDEG1": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1HOURS1": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1STARTDEG2": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1HOURS2": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1ADHDMED": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1LEARN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1SPEAK": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1MOOD": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1ACTOUT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1FRIEND": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1BEHAVE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1ATTEND": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1PERFORM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1SCHCHOICE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1SCHMTG": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1PTOMTG": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1PTCONFER": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1SCHEVENT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1VOLUNTEER": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1FUNDRAISE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1COUNSELOR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1HWOFTEN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1MTHHWEFF": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1SCIHWEFF": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1ENGHWEFF": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1MTHCOMP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1SCICOMP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1ENGCOMP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1ARTS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1SPORTS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1RELIGGRP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1CLUB": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1ACADEMIC": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1CAMPMS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1CAMPOTH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1NOOUTSCH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1MUSEUM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1COMPUTER": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1FIXED": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1SCIFAIR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1SCIPROJ": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1STEMDISC": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1LIBRARY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1SHOW": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1NOACT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1EDUASPIRE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1EDUEXPECT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1ABLEBA": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1ADMITREQ": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1TYPEPS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1START": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1PUBPRV": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1INOUTST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1TUITION": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1COSTIN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1FEEIN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1FEEPRV": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1FEEOUT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1ESTIN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1ESTFEE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1ESTCONF": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1HELPPAY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1PREPPAY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1SAVEDPAY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1ACCTPAY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1QHELP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1QHELP1": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1QHELP2": {
+    "tier_3": false,
+    "certain": true
+  },
+  "P1QHELP4": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1HIDEGYR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1HIDEGCONT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1HIDEGSCHED": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1HIMAJ2": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1HIMAJ_STEM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1BAYR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1BACONT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1BASCHED": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1BAMAJ2": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1BAMAJ_STEM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1STARTDEG": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1ALGEBRA": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1APPLIEDMTH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1CALCULUS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1DISCRETE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1FOUNDATION": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1GEOMETRY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1NUMBERTH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1STATS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1NOMATH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1MATHJOB": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1ALTCERT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1PENSION": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1TEACHING": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1LEARNING": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1BELIEVE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1CLEARGOALS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1GIVEUP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1CARE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1EXPECT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1WORKHARD": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1COURSE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1ACHIEVE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1UNPREPPCT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1GROUP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1ASSIGN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1INTEREST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1CONCEPTS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1ALGORITHM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1COMPSKILLS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1PROBLEM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1REASON": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1IDEAS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1PREPARE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1LOGIC": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1HISTORY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1EXPLAIN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1BUSINESS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1COMPUTE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1TEST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1ADVSENIOR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1ADVBCKGRND": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1ADVALL": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1NCNEW": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1NCLOW": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1NCALL": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1HELPAVAIL": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1HELPQUALTY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1SHRIDEAS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1WORKSHOP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1SHRSTWRK": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1SHRLESSONS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1SHRBELIEFS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1SHRMTHDS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1SHRELL": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1SHRAPPRCH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1SHRCONTENT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1EFFECTIVE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1MENTOR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1CHAIR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1ENGCOMP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1MTHCOMP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1SCICOMP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1TARDY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1STUABSENT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1CUT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1TCHRABSENT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1DROPOUT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1APATHY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1INVOLVEMNT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1UNPREPPROB": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1HEALTH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1RESOURCES": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1ABLRANGE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1SESRANGE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1LANGRANGE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1SPECNEED": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1UNINTEREST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1MORALE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1DISRUPT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1PROFDEV": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1ADMSUPPORT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1COMPUTER": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1TECHSUPPRT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1BOOKS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1STUEQUIP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1DEMOEQUIP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1FACILITIES": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1RATIO": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1PLANNING": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1AUTONOMY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1FAMSUPPORT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1FAMILY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1DISCIPLINE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1STUACHIEVE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1PARENT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1RETAIN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1REDIRECT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1GETTHRU": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1HOMEFX": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1PRESSURES": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1POORJOBRES": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1PSETSPRIO": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1PSCHVISION": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1PCOMEXP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1PINNOVATE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1PCONSULTS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1TSCHDISC": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1TIMPROVE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1TSETSTDS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1TSELFDEV": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1THELPBEST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1TALLLEARN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "M1TFAIL": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1MTHSCIFAIR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1MSSUMMER": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1MSAFTERSCH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1MSMENTOR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1MSSPEAKER": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1MSFLDTRIP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1MSPRGMS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1MSPDLEARN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1MSPDINTRST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1MSOTHER": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1MSNONE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1G9SUMMER": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1G9OVERAGE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1G9COMMUNTY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1G9BLOCKSCH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1G9DOUBLE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1G9STUDY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1G9TEACHER": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1G9OTHRPROG": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1OFFERDOPRV": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1OFFERNONE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1FILLMTH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1FILLSCI": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1HIMAJ_STEM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1BAMAJ_STEM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1YRSADMIN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1HRTEACHERS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1HRINTMGMNT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1HREXTMGMNT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1HRMONITOR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1HRTEACHING": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1HRPARENT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1HRSTUDENT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1HRPAPERWK": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1HROTH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1TARDY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1TCHRABSENT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1APATHY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1PRNTINV": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1UNPREP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1HEALTH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "A1RESOURCES": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1HRSSCHED": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1HRSCOLLEGE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1HRSCAREER": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1HRSDEVELOP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1HRSJOBSKLL": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1HRSPROBLEM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1HRSTESTING": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1HRSNONCNSL": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1HRSOTHCNSL": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1GOAL1": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1GOAL2": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1GOAL3": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANSCNSL": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANSCRS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANPRNT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANPLCY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANPRES": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANCOTH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANNOT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANSTUDPR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANSTFFPR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANVISIT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANCLASS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANADMIN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANTCHRS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANBUDDY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANLRNCOM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANSUMMER": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANFALL": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TRANSOTH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TECHSUPPRT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1GIFTED": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1SCHOLARSHP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1SUMMER": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1OTHSUPPORT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1STAFF": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1PULLOUT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1CREDREC": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1HOMEWORK": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1OUTSIDE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1OTHRASSIST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1PURSUE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1INFORM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1ENCCLG": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1ONLINE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1OTHERHS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1COMCLG": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C14YRCLG": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1OTHERWAY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1NOWAY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1MCOMPTST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1DROPOUT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1CLGPREP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1WORKFORCE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1CLGFAIR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1POSTSECREQ": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1VISITCLG": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1INFOSESSN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1FINANCEAID": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1ASSISTOTH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1CLUSTER": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1INDVCRS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1INTERN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1JOBFAIR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1JOBGUIDE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1EMPLOYER": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1AWARENESS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1CAREERUNIT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1WORKSTUDY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1CAREERDAY": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1ASSEMBLIES": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1JOBVISIT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1JOBSHADOW": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1JOBTEST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1JOBINFOCMP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1JOBINFONON": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1HSTOWRKOTH": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1HSTOWORKNO": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9MMSCNSL": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9MHSCNSL": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9MMSTCHR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9MMSCOURS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9MMSACHV": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9MENDTST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9MPLACTST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9MSTNDTST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9MPLAN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9MSELECT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1UPMGRADES": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1UPMPLACTST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1UPMTCHR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1UPMSELECT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1UPMPLAN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1UPMSCHED": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9SMSCNSL": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9SHSCNSL": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9SMSTCHR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9SMSCOURS": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9SMSACHV": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9SENDTST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9SPLACTST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9SSTNDTST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9SPLAN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1G9SSELECT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1UPSGRADES": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1UPSPLACTST": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1UPSTCHR": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1UPSSELECT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1UPSPLAN": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1UPSSCHED": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TTEACHING": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TLEARNING": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TBELIEVE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TGIVEUP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TCARE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TEXPECT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1TWORKHARD": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1CLEARNING": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1CBELIEVE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1CGIVEUP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1CCARE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1CEXPECT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1CWORKHARD": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1PLEARNING": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1PBELIEVE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1PGIVEUP": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1PCARE": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1PEXPECT": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1PWORKHARD": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1HIMAJ_STEM": {
+    "tier_3": false,
+    "certain": true
+  },
+  "C1BAMAJ_STEM": {
+    "tier_3": false,
+    "certain": true
+  }
+}

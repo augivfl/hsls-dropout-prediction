@@ -1,0 +1,2878 @@
+{
+  "X1TXMTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TXMSEM": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TXMSCR": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TXMTSCOR": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TXMQUINT": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TXMPROF1": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TXMPROF2": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TXMPROF3": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TXMPROF4": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TXMPROF5": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1MACC": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1PARRESP": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1MOMRESP": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1DADRESP": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1MTHID": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1MTHUTI": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1MTHEFF": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1MTHINT": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1SCIID": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1SCIUTI": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1SCIEFF": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1SCIINT": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1SCHOOLBEL": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1SCHOOLENG": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1STU30OCC2": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1STU30OCC_STEM1": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1STUEDEXPCT": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1PAREDEXPCT": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TESTSTAT": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TESTDATE": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1SQSTAT": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1SQDATE": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1PQSTAT": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1PQDATE": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1PQLANG": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TMQSTAT": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TMQDATE": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TMLINK": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TMCRSLINK": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TMRACE": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TMCOMM": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TMEFF": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TMEXP": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TMPRINC": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TMRESP": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TSQSTAT": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TSQDATE": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TSLINK": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TSCRSLINK": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TSRACE": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TSCOMM": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TSEFF": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TSEXP": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TSPRINC": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TSRESP": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1SCHOOLCLI": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1COUPERTEA": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1COUPERCOU": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1COUPERPRI": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1AQSTAT": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1AQDATE": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1AQDESIGNEE": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1CQSTAT": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1CQDATE": {
+    "exclude": true,
+    "certain": true
+  },
+  "S1SEX": {
+    "exclude": true,
+    "certain": true
+  },
+  "S1BIRTHMON": {
+    "exclude": true,
+    "certain": true
+  },
+  "S1BIRTHYR": {
+    "exclude": true,
+    "certain": true
+  },
+  "S1LANG1ST": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1LANGMOM": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1LANGFRIEND": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MCLUB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MCOMPETE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MCAMP": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MTUTOR": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SCLUB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SCOMPETE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SCAMP": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1STUTOR": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1NOMSACT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SBOOKS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1WEBINFO": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SMUSEUM": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MPERSON1": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MPERSON2": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MUNDERST": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MENJOYS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MCHALLENGE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MHSREQ": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MCOUNSEL": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MPARENT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MTEACHER": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MNOOTHR": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MCLGADM": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MCLGSUCC": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MCAREER": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MASSIGNED": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MOTHREASN": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MNOREASON": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MENJOYING": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MWASTE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MBORING": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MUSELIFE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MUSECLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MUSEJOB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MTESTS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MTEXTBOOK": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MSKILLS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MASSEXCL": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MTCHVALUES": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MTCHRESPCT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MTCHFAIR": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MTCHCONF": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MTCHMISTKE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MTCHTREAT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MTCHINTRST": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MTCHMFDIFF": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MTCHEASY": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SPERSON1": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SPERSON2": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SUNDERST": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SENJOYS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SCHALLENGE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SHSREQ": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SCOUNSEL": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SPARENT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1STEACHER": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SNOOTHR": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SCLGADM": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SCLGSUCC": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SCAREER": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SASSIGNED": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SOTHREASN": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SNOREASON": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SENJOYING": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SWASTE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SBORING": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SUSELIFE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SUSECLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SUSEJOB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1STESTS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1STEXTBOOK": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SSKILLS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SASSEXCL": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1STCHVALUES": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1STCHRESPCT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1STCHFAIR": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1STCHCONF": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1STCHMISTKE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1STCHTREAT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1STCHINTRST": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1STCHMFDIFF": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1STCHEASY": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SAFE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1PROUD": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1TALKPROB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SCHWASTE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1GOODGRADES": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1NOHWDN": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1NOPAPER": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1NOBOOKS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FAVSUBJ": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1LEASTSUBJ": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1PAYOFF": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1GETINTOCLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1AFFORD": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1WORKING": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MOMTALKM": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1DADTALKM": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FRNDTALKM": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1TCHTALKM": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1CNSLTALKM": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1NOTALKM": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MOMTALKS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1DADTALKS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FRNDTALKS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1TCHTALKS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1CNSLTALKS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1NOTALKS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MOMTALKOTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1DADTALKOTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FRNDTLKOTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1TCHTALKOTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1CNSLTLKOTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1NOTALKOTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MOMTALKCLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1DADTALKCLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FRNDTLKCLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1TCHTALKCLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1CNSLTLKCLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1NOTALKCLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MOMTALKJOB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1DADTALKJOB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FRNDTLKJOB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1TCHTALKJOB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1CNSLTLKJOB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1NOTALKJOB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MOMTALKPRB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1DADTALKPRB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FRNDTLKPRB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1TCHTALKPRB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1CNSLTLKPRB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1NOTALKPRB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FRNDGRADES": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FRNDSCHOOL": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FRNDCLASS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FRNDCLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1TEFRNDS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1TEACTIV": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1TEPOPULAR": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1TEMAKEFUN": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1ENGCOMP": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MTHCOMP": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SCICOMP": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1HRMHOMEWK": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1HRSHOMEWK": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1HROTHHOMWK": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1HRACTIVITY": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1HRWORK": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1HRFAMILY": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1HRFRIENDS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1HRTV": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1HRVIDEO": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1HRONLINE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1TALENTSRCH": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1UPWARDBND": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1GEARUP": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1AVID": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MESA": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MYRS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MREASREQ": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MREASPAR": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MREASTCHR": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MREASCNSL": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MREASGOOD": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MREASJOB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MREASLIKE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MREASENJOY": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MREASCLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MREASUSE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MREASFRND": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MREASOTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1MREASNOT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1APCALC": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1IBCALC": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SYRS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SREASREQ": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SREASPAR": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SREASTCHR": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SREASCNSL": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SREASGOOD": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SREASJOB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SREASLIKE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SREASENJOY": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SREASCLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SREASUSE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SREASFRND": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SREASOTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SREASNOT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1APS": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1IBSCI": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1PLAN": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1PLANCNSL": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1PLANTCHR": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1PLANPRNT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1PLANOTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1PLANNOONE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1PSAT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SAT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1ACT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1AP": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1IBTEST": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SUREHSGRAD": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1EDUEXPECT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1SURECLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1ABILITYBA": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1BAAGE30": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FYAA": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FYBA": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FYLICENSE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FYAPPR": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FYMILITARY": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FYJOB": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FYFAMILY": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FYTRAVEL": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FYVOLUN": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FYNOTSURE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1PUBPRV": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1INOUTST": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1TUITION": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1COSTIN": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FEEIN": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FEEPRV": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1FEEOUT": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1ESTIN": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1ESTFEE": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1ESTCONF": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1OCC30THINK": {
+    "exclude": false,
+    "certain": true
+  },
+  "S1TALKFUTURE": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1HHTIME": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1HHOTHR": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1ENGLISH": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1DIFSCHLNG": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1STARTDEG1": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1HOURS1": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1STARTDEG2": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1HOURS2": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1ADHDMED": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1LEARN": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1SPEAK": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1MOOD": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1ACTOUT": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1FRIEND": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1BEHAVE": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1ATTEND": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1PERFORM": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1SCHCHOICE": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1SCHMTG": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1PTOMTG": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1PTCONFER": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1SCHEVENT": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1VOLUNTEER": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1FUNDRAISE": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1COUNSELOR": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1HWOFTEN": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1MTHHWEFF": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1SCIHWEFF": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1ENGHWEFF": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1MTHCOMP": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1SCICOMP": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1ENGCOMP": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1ARTS": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1SPORTS": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1RELIGGRP": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1CLUB": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1ACADEMIC": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1CAMPMS": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1CAMPOTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1NOOUTSCH": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1MUSEUM": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1COMPUTER": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1FIXED": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1SCIFAIR": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1SCIPROJ": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1STEMDISC": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1LIBRARY": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1SHOW": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1NOACT": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1EDUASPIRE": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1EDUEXPECT": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1ABLEBA": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1ADMITREQ": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1TYPEPS": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1START": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1PUBPRV": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1INOUTST": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1TUITION": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1COSTIN": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1FEEIN": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1FEEPRV": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1FEEOUT": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1ESTIN": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1ESTFEE": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1ESTCONF": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1HELPPAY": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1PREPPAY": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1SAVEDPAY": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1ACCTPAY": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1QHELP": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1QHELP1": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1QHELP2": {
+    "exclude": false,
+    "certain": true
+  },
+  "P1QHELP4": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1SEX": {
+    "exclude": true,
+    "certain": true
+  },
+  "M1HIDEGYR": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1HIDEGCONT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1HIDEGSCHED": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1HIMAJ2": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1HIMAJ_STEM": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1BAYR": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1BACONT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1BASCHED": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1BAMAJ2": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1BAMAJ_STEM": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1STARTDEG": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1ALGEBRA": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1APPLIEDMTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1CALCULUS": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1DISCRETE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1FOUNDATION": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1GEOMETRY": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1NUMBERTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1STATS": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1NOMATH": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1MATHJOB": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1ALTCERT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1PENSION": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1TEACHING": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1LEARNING": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1BELIEVE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1CLEARGOALS": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1GIVEUP": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1CARE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1EXPECT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1WORKHARD": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1COURSE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1ACHIEVE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1UNPREPPCT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1GROUP": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1ASSIGN": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1INTEREST": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1CONCEPTS": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1ALGORITHM": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1COMPSKILLS": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1PROBLEM": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1REASON": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1IDEAS": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1PREPARE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1LOGIC": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1HISTORY": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1EXPLAIN": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1BUSINESS": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1COMPUTE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1TEST": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1ADVSENIOR": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1ADVBCKGRND": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1ADVALL": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1NCNEW": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1NCLOW": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1NCALL": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1HELPAVAIL": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1HELPQUALTY": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1SHRIDEAS": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1WORKSHOP": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1SHRSTWRK": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1SHRLESSONS": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1SHRBELIEFS": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1SHRMTHDS": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1SHRELL": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1SHRAPPRCH": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1SHRCONTENT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1EFFECTIVE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1MENTOR": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1CHAIR": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1ENGCOMP": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1MTHCOMP": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1SCICOMP": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1TARDY": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1STUABSENT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1CUT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1TCHRABSENT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1DROPOUT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1APATHY": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1INVOLVEMNT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1UNPREPPROB": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1HEALTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1RESOURCES": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1ABLRANGE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1SESRANGE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1LANGRANGE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1SPECNEED": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1UNINTEREST": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1MORALE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1DISRUPT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1PROFDEV": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1ADMSUPPORT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1COMPUTER": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1TECHSUPPRT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1BOOKS": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1STUEQUIP": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1DEMOEQUIP": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1FACILITIES": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1RATIO": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1PLANNING": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1AUTONOMY": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1FAMSUPPORT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1FAMILY": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1DISCIPLINE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1STUACHIEVE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1PARENT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1RETAIN": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1REDIRECT": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1GETTHRU": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1HOMEFX": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1PRESSURES": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1POORJOBRES": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1PSETSPRIO": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1PSCHVISION": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1PCOMEXP": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1PINNOVATE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1PCONSULTS": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1TSCHDISC": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1TIMPROVE": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1TSETSTDS": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1TSELFDEV": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1THELPBEST": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1TALLLEARN": {
+    "exclude": false,
+    "certain": true
+  },
+  "M1TFAIL": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1SCHCONTROL": {
+    "exclude": true,
+    "certain": true
+  },
+  "A1MTHSCIFAIR": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1MSSUMMER": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1MSAFTERSCH": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1MSMENTOR": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1MSSPEAKER": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1MSFLDTRIP": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1MSPRGMS": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1MSPDLEARN": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1MSPDINTRST": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1MSOTHER": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1MSNONE": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1G9SUMMER": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1G9OVERAGE": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1G9COMMUNTY": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1G9BLOCKSCH": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1G9DOUBLE": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1G9STUDY": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1G9TEACHER": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1G9OTHRPROG": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1OFFERDOPRV": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1OFFERNONE": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1FILLMTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1FILLSCI": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1HIMAJ_STEM": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1BAMAJ_STEM": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1YRSADMIN": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1HRTEACHERS": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1HRINTMGMNT": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1HREXTMGMNT": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1HRMONITOR": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1HRTEACHING": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1HRPARENT": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1HRSTUDENT": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1HRPAPERWK": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1HROTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1TARDY": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1TCHRABSENT": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1APATHY": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1PRNTINV": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1UNPREP": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1HEALTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "A1RESOURCES": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1HRSSCHED": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1HRSCOLLEGE": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1HRSCAREER": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1HRSDEVELOP": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1HRSJOBSKLL": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1HRSPROBLEM": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1HRSTESTING": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1HRSNONCNSL": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1HRSOTHCNSL": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1GOAL1": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1GOAL2": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1GOAL3": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANSCNSL": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANSCRS": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANPRNT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANPLCY": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANPRES": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANCOTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANNOT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANSTUDPR": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANSTFFPR": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANVISIT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANCLASS": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANADMIN": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANTCHRS": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANBUDDY": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANLRNCOM": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANSUMMER": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANFALL": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TRANSOTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TECHSUPPRT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1GIFTED": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1SCHOLARSHP": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1SUMMER": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1OTHSUPPORT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1STAFF": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1PULLOUT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1CREDREC": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1HOMEWORK": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1OUTSIDE": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1OTHRASSIST": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1PURSUE": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1INFORM": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1ENCCLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1ONLINE": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1OTHERHS": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1COMCLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "C14YRCLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1OTHERWAY": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1NOWAY": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1MCOMPTST": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1DROPOUT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1CLGPREP": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1WORKFORCE": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1CLGFAIR": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1POSTSECREQ": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1VISITCLG": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1INFOSESSN": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1FINANCEAID": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1ASSISTOTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1CLUSTER": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1INDVCRS": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1INTERN": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1JOBFAIR": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1JOBGUIDE": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1EMPLOYER": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1AWARENESS": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1CAREERUNIT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1WORKSTUDY": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1CAREERDAY": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1ASSEMBLIES": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1JOBVISIT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1JOBSHADOW": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1JOBTEST": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1JOBINFOCMP": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1JOBINFONON": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1HSTOWRKOTH": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1HSTOWORKNO": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9MMSCNSL": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9MHSCNSL": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9MMSTCHR": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9MMSCOURS": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9MMSACHV": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9MENDTST": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9MPLACTST": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9MSTNDTST": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9MPLAN": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9MSELECT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1UPMGRADES": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1UPMPLACTST": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1UPMTCHR": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1UPMSELECT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1UPMPLAN": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1UPMSCHED": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9SMSCNSL": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9SHSCNSL": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9SMSTCHR": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9SMSCOURS": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9SMSACHV": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9SENDTST": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9SPLACTST": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9SSTNDTST": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9SPLAN": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1G9SSELECT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1UPSGRADES": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1UPSPLACTST": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1UPSTCHR": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1UPSSELECT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1UPSPLAN": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1UPSSCHED": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TTEACHING": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TLEARNING": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TBELIEVE": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TGIVEUP": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TCARE": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TEXPECT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1TWORKHARD": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1CLEARNING": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1CBELIEVE": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1CGIVEUP": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1CCARE": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1CEXPECT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1CWORKHARD": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1PLEARNING": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1PBELIEVE": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1PGIVEUP": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1PCARE": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1PEXPECT": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1PWORKHARD": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1HIMAJ_STEM": {
+    "exclude": false,
+    "certain": true
+  },
+  "C1BAMAJ_STEM": {
+    "exclude": false,
+    "certain": true
+  },
+  "X1TXMTH1": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TXMTH2": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TXMTH3": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TXMTH4": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TXMTH5": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TXMSEM1": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TXMSEM2": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TXMSEM3": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TXMSEM4": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TXMSEM5": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1SES1": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1SES2": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1SES3": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1SES4": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1SES5": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1SES1_U": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1SES2_U": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1SES3_U": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1SES4_U": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1SES5_U": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1TXMATH_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1SEX_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1RACE_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1HISPAN_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1NATIVEL_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1P1RELAT_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1P2RELAT_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1PAR1EDU_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1PAR2EDU_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1PAREDU_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1PARPATT_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1PAR1EMP_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1PAR2EMP_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1PAR1OCC_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1PAR2OCC_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1MOMREL_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1MOMEDU_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1MOMEMP_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1MOMOCC_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1DADREL_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1DADEDU_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1DADEMP_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1DADOCC_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1HHNUMB_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1FAMINC_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1POVERTY_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1SES_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1STUEDEX_IM": {
+    "exclude": true,
+    "certain": true
+  },
+  "X1PAREDEX_IM": {
+    "exclude": true,
+    "certain": true
+  }
+}
