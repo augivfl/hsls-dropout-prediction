@@ -20,3 +20,5 @@ Codebook_HSLS_17_PETS.txt
 # Markdown files
 02_data_cleaning.md
 data_tier*.pkl
+data_tier3.pkl
+data_tier4.pkl
